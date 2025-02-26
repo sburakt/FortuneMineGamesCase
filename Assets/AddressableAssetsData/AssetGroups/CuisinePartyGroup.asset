@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CuisinePartyGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: CuisinePartyGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e336f23068d5091439ae3e6ad4dc9e0e
+  m_SerializeEntries:
+  - m_GUID: 74b1f29cee432d44da0119d6b7d70975
+    m_Address: Assets/Assets/CuisineParty_Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 213708dd34ee9f547bd5c32293247e11, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 93d28f855c77c4844a3b8f6253ef507e, type: 2}
+    - {fileID: 11400000, guid: 0922185f687bfd54f935908a51ad364d, type: 2}
